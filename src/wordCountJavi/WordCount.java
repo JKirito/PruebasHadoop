@@ -15,7 +15,7 @@ public class WordCount {
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
 		long init = new Date().getTime();
-//		args = new String[2];
+		// args = new String[2];
 		// args[0] =
 		// "/home/pruebahadoop/Documentos/DescargasPeriodicos/Procesado/LaNacion/archivoPorAño";
 		// args[0] = "/home/pruebahadoop/Documentos/DataSets/otros/input";
